@@ -1,6 +1,7 @@
-Python implementation of a dynamic DNS Updater for afraid.org
+| dyndns |--> This is a Python implementation of dynamic DNS Updater for afraid.org
 
-afraid.org:- Free DNS Hosting, Dynamic DNS Hosting, Static DNS Hosting, subdomain and domain hosting.
+-------------------------------------------------------------------------------------------------------------------------
+afraid.org:- Free DNS Hosting(Static & Dynamic),subdomain and domain hosting.
 
 Possible Uses:
 
@@ -15,3 +16,6 @@ Possible Uses:
 - afraid.org is operated from multiple redundant high capacity well connected servers
 
 For more info: http://freedns.afraid.org/
+-------------------------------------------------------------------------------------------------------------------------
+Now, you must be having some idea on how this script works - Yes! This script helps in updating the DNS with your current External IP Address.
+You can also make this script run during your system boot time to update the dns with out any manual intervention.
