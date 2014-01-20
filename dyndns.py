@@ -5,7 +5,8 @@ import urllib2
 # Update the DNS with your current public IP. To do this you'll be needing the freedns.afraid.org api key. To get the key:
 # 1. You need a sign up for http://freedns.afraid.org/
 # 2. Login to  http://freedns.afraid.org/
-# 3. Go to the api page: http://freedns.afraid.org/api/ and Click on XML or ASCII for api key
+# 3. Add your Domain or Sub-Domain and assign an IP(Static IP?: You don't need this script | Dynamic?: You'll need this script) to it.
+# 4. Go to the api page: http://freedns.afraid.org/api/ and Click on XML or ASCII for api key.
 
 #api key looks like this: RVF3dWNGRVNiQlFsxXVSMzJZQ5JhQ2dxOjEwOTA4Mjcc 
 #Warning: This api key changes whenever you change your password 
