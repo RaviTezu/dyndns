@@ -19,3 +19,7 @@ For more info: http://freedns.afraid.org/
 -------------------------------------------------------------------------------------------------------------------------
 Now, you must be having some idea on how this script works - Yes! This script helps in updating the DNS with your current External IP Address.
 You can also make this script run during your system boot time to update the dns with out any manual intervention.
+
+LICENSE:
+
+Released under MIT License, full details in LICENSE file.
