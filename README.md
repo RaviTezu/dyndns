@@ -1,6 +1,6 @@
 | dyndns |--> This is a Python implementation of dynamic DNS Updater for afraid.org
 
--------------------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------------------------
 afraid.org:- Free DNS Hosting(Static & Dynamic),subdomain and domain hosting.
 
 Possible Uses:
