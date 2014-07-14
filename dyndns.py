@@ -20,6 +20,7 @@ api_key = "<Paste your api key>"
 try:
    public_ip  = urllib2.urlopen("http://ip.42.pl/raw").read()
 except: 
+   #Note: This is a bare except and it is *NOT* a good idea to use!
    print "Unable to get your public facing IP!"
 
 if public_ip:
@@ -29,6 +30,7 @@ if public_ip:
       result = update_dns.read().strip()
       print result
    except: 
+      #Note: This is a bare except and it is *NOT* a good idea to use!
       print "Something is wrong, cannot update the dns!"
  
 else: 
